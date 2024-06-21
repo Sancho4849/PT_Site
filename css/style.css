@@ -1,0 +1,62 @@
+body {
+    background-color: #08161e;
+    font-family: 'Courier New', Courier, monospace;
+    color: #e5e9eb;
+    ;
+}
+
+.my_photo {
+    background: url(../image/MyPhoto.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 400px;
+}
+.Cola {
+    background: url(../image/Cola.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 300px;
+    height: 300px;
+}
+
+.Pizza {
+    background: url(../image/Pizza.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 300px;
+    height: 300px;
+}
+
+.nav_logo{
+    background: url(../image/Logo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
+
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    text-align: center;
+}
+
